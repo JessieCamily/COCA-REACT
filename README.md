@@ -1,4 +1,3 @@
-# COCA-REACT
 # React + TypeScript + Vite
 ## React Router DOM
 
